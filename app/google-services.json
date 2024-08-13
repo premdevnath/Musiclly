@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021886825337",
+    "project_id": "musicly-e0c7a",
+    "storage_bucket": "musicly-e0c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021886825337:android:f84e6b7f370973ff5225a8",
+        "android_client_info": {
+          "package_name": "com.example.musiclly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEPX8MgIXcouhDdpbAp9r54x69zlDVB7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021886825337:android:b56a0ab6105479d85225a8",
+        "android_client_info": {
+          "package_name": "com.example.musicly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEPX8MgIXcouhDdpbAp9r54x69zlDVB7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
